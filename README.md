@@ -7,26 +7,6 @@
 
 <hr>
 
-<div style="padding: 10px; background-color: #f8f9fa; border-left: 5px solid #0052cc; border-radius: 4px; margin-bottom: 20px;">
-  <h2 style="margin-top: 0; color: #333;">🔗 Important Links</h2>
-  <table border="0" cellpadding="10" cellspacing="0" width="100%" style="background-color: #ffffff; border-radius: 8px; border: 1px solid #e0e0e0; border-collapse: collapse;">
-    <tr style="border-bottom: 1px solid #eeeeee;">
-        <td width="60" align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord Logo" width="40"></td>
-        <td><a href="https://discord.gg/FEKasAdCrG" style="text-decoration: none; color: #5865F2; font-weight: bold;">Join our project's Discord Channel here</a></td>
-    </tr>
-    <tr style="border-bottom: 1px solid #eeeeee;">
-        <td width="60" align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma Logo" width="40"></td>
-        <td><a href="https://www.figma.com/file/zqNcWGGKBo5Q2TwwVgR6G5/WanderLust--A-Travel-Blog-App?type=design&node-id=0%3A1&mode=design&t=c4oCG8N1Fjf7pxTt-1" style="text-decoration: none; color: #F24E1E; font-weight: bold;">Find our project's Figma links here</a></td>
-    </tr>
-    <tr>
-        <td width="60" align="center"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube Logo" width="40"></td>
-        <td><a href="https://youtu.be/ANfC1u_N_A0?feature=shared" style="text-decoration: none; color: #FF0000; font-weight: bold;">Find our Collaboration Video with TrainwithShubham here</a></td>
-    </tr>
-  </table>
-</div>
-
-<hr>
-
 <!-- Pipeline Section -->
 <div style="padding: 10px; margin-bottom: 25px;">
   <h2 align="center" style="color: #0052cc;">🛠️ DevSecOps Pipeline Architecture</h2>
